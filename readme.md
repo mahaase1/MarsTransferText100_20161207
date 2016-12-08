@@ -4,10 +4,16 @@ To help re-establish communications with the team on Mars, you must accomplish t
 
 Mission control has established the following three goals.
 
-1. [Establish IoT Hub Communications](IoTHubs)
-[cut this for the Azure function]1. [Confirm data using Power BI Embedded](PowerBIEmbedded)
+[Establish IoT Hub Communications](IoTHubs)
 
-1. [Verify staff using Cognitive Services](CognitiveServices)
+[Verify staff using Cognitive Services](CognitiveServices)
 
+Dec 7 2016 - Adding the Azure functions. 
+Azure functions external reference is https://blogs.msdn.microsoft.com/appserviceteam/2016/10/04/get-some-hands-on-time-with-serverless-development-right-now-for-free/
+
+
+This repo is a copy from two locations:
+1. IoTHubs and CognitiveServices are from our private repo
+2. Azure functions are from the Jon Gallant's L2 training repo https://github.com/DxNext/2016-Oct-L2/tree/master/AppService , Module 3
 
 
